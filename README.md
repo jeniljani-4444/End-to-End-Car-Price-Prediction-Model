@@ -97,19 +97,7 @@ Here's a demo of the working prototype:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/32607ca7-e16a-41ca-89e1-0712c55ecc1d
 
 
 
