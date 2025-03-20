@@ -1,4 +1,37 @@
-Here’s the updated `README.md` file with the requested changes, including the training and testing R² scores and a section for the working prototype video:
+If you want to add a video directly from your system to your GitHub repository and display it in the `README.md`, you can follow these steps:
+
+---
+
+### Steps to Add a Video to Your Repository
+
+1. **Add the Video File to Your Repository:**
+   - Place the video file (e.g., `demo.mp4`) in your project directory.
+   - Commit and push the video file to GitHub:
+     ```bash
+     git add demo.mp4
+     git commit -m "Added working prototype video"
+     git push origin main
+     ```
+
+2. **Display the Video in the `README.md`:**
+   GitHub does not support embedding videos directly in the `README.md`, but you can link to the video file. When someone clicks the link, they can download or view the video.
+
+   Update your `README.md` with the following:
+
+   ```markdown
+   ## Working Prototype
+   Watch the working prototype of the model in action:
+
+   [Download or View Video](demo.mp4)
+   ```
+
+   This will create a clickable link in your `README.md` that points to the video file.
+
+---
+
+### Updated `README.md` with Direct Video Link
+
+Here’s the updated `README.md` with the video linked directly from your repository:
 
 ---
 
@@ -97,9 +130,7 @@ The model achieves excellent accuracy on both the training and testing datasets.
 ## Working Prototype
 Watch the working prototype of the model in action:
 
-[![Car Price Prediction Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-*(Click the image above to view the video)*
+[Download or View Video](demo.mp4)
 
 ---
 
@@ -125,7 +156,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### Notes:
-- Replace `YOUR_VIDEO_ID` in the YouTube link with the actual ID of your video. For example, if your video URL is `https://www.youtube.com/watch?v=abc123`, then `YOUR_VIDEO_ID` would be `abc123`.
-- If you’re hosting the video elsewhere, replace the YouTube link with the appropriate URL.
+- Replace `demo.mp4` with the actual name of your video file.
+- When someone clicks the link, they will be able to download or view the video directly from GitHub.
 
-This updated `README.md` now includes the R² scores and a section for the working prototype video. Let me know if you need further adjustments!
+This approach allows you to include the video in your repository without relying on external platforms like YouTube. Let me know if you need further assistance!
