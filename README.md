@@ -1,6 +1,4 @@
-# End-to-End-Car-Price-Prediction-Model
-
-Creating a `README.md` file for your Car Price Prediction Model is essential to help others understand your project, its purpose, and how to use it. Below is a template you can use for your GitHub repository:
+Here’s the updated `README.md` file with the requested changes, including the training and testing R² scores and a section for the working prototype video:
 
 ---
 
@@ -15,6 +13,7 @@ This repository contains a machine learning model for predicting car prices base
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Performance](#model-performance)
+- [Working Prototype](#working-prototype)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -87,12 +86,20 @@ To run this project locally, follow these steps:
 ---
 
 ## Model Performance
-The model's performance is evaluated using the following metrics:
-- **Mean Absolute Error (MAE):** 1500
-- **Mean Squared Error (MSE):** 250000
-- **R² Score:** 0.92
+The model's performance is evaluated using the R² score:
+- **Training R² Score:** 99.91%
+- **Testing R² Score:** 99.96%
 
-The model achieves an accuracy of **92%** on the test dataset.
+The model achieves excellent accuracy on both the training and testing datasets.
+
+---
+
+## Working Prototype
+Watch the working prototype of the model in action:
+
+[![Car Price Prediction Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+*(Click the image above to view the video)*
 
 ---
 
@@ -117,4 +124,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to customize this template to suit your project's specific details. Once you're done, save it as `README.md` in the root directory of your GitHub repository.
+### Notes:
+- Replace `YOUR_VIDEO_ID` in the YouTube link with the actual ID of your video. For example, if your video URL is `https://www.youtube.com/watch?v=abc123`, then `YOUR_VIDEO_ID` would be `abc123`.
+- If you’re hosting the video elsewhere, replace the YouTube link with the appropriate URL.
+
+This updated `README.md` now includes the R² scores and a section for the working prototype video. Let me know if you need further adjustments!
