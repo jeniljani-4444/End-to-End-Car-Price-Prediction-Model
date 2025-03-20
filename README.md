@@ -93,7 +93,25 @@ The model achieves excellent accuracy on both the training and testing datasets.
 ## Working Prototype
 Here's a demo of the working prototype:
 
-![Car Price Prediction Demo](demo.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
