@@ -91,9 +91,9 @@ The model achieves excellent accuracy on both the training and testing datasets.
 ---
 
 ## Working Prototype
-Watch the working prototype of the model in action:
+Here's a demo of the working prototype:
 
-[Download or View Video](demo.mp4)
+![Car Price Prediction Demo](demo.gif)
 
 ---
 
@@ -119,7 +119,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### Notes:
-- Replace `demo.mp4` with the actual name of your video file.
-- When someone clicks the link, they will be able to download or view the video directly from GitHub.
+- Replace `demo.gif` with the actual name of your GIF file.
+- This approach allows you to display a video-like demo directly in your `README.md` without relying on external platforms.
 
-This approach allows you to include the video in your repository without relying on external platforms like YouTube. Let me know if you need further assistance!
+If you still want to use the original video file, you’ll need to host it elsewhere (e.g., YouTube, Vimeo, or Google Drive) and embed it using an iframe or link. Let me know if you need help with that!
