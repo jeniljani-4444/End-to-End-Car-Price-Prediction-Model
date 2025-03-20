@@ -1,6 +1,6 @@
 # Car Price Prediction Model
 
-This repository contains a machine learning model for predicting car prices based on various features such as mileage, age, brand, engine type, and more. The model is built using Python and popular machine learning libraries like Scikit-learn, Pandas, and NumPy.
+This repository contains a machine learning model for predicting car prices based on various features such as mileage, age, brand, engine type, and more. The model is built using Python and popular machine learning libraries like Scikit-learn, Pandas, Streamlit and NumPy.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -21,7 +21,7 @@ The goal of this project is to predict the price of a car based on its features.
 ---
 
 ## Dataset
-The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/) (or specify your source). It includes the following columns:
+The dataset used for this project is sourced from [Kaggle](https://www.kaggle.com/) . It includes the following columns:
 - **Car Name**: Name of the car.
 - **Year**: Manufacturing year of the car.
 - **Selling Price**: Target variable (price of the car).
@@ -123,9 +123,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Thanks to the open-source community for providing helpful libraries and tools.
 
 ---
-
-### Notes:
-- Replace `demo.gif` with the actual name of your GIF file.
-- This approach allows you to display a video-like demo directly in your `README.md` without relying on external platforms.
-
-If you still want to use the original video file, you’ll need to host it elsewhere (e.g., YouTube, Vimeo, or Google Drive) and embed it using an iframe or link. Let me know if you need help with that!
